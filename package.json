@@ -1,0 +1,23 @@
+{
+  "name": "quote-a-day",
+  "version": "1.0.0",
+  "description": "Assignment for Course 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinjteem/quote-a-day.git"
+  },
+  "author": "Ajinkya Mate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinjteem/quote-a-day/issues"
+  },
+  "homepage": "https://github.com/xinjteem/quote-a-day#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
