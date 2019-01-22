@@ -8,5 +8,5 @@ app.get('/', function(req, res){
 })
 
 var server = app.listen(port, function(req, res){
-	console.log('Express Server started listening at port: ' + port);
+	console.log('Ready!! Express Server started listening at port: ' + port);
 });
